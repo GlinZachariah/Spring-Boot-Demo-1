@@ -20,6 +20,6 @@ Spring Boot Demo (RequestMapping,Controller,List)
 [Optional]
 - create application.properties with content
   `servlet:port=8081` in case server tomcat server port isn't working
-- create 3 class `UserDetails`,`Spring Starter`,`ApplicationController` in class `com.demo`
+- create 3 class `UserDetails`,`Spring Starter`,`ApplicationController` in package `com.demo`
 - update the contents from the given files
 - Run as Java Application
